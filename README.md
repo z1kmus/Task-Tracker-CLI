@@ -2,6 +2,8 @@
 
 A simple command-line task manager written in Python. It stores tasks in a local `tasks.json` file and lets you add, update, delete, and track task progress from the terminal.
 
+Project URL -> https://roadmap.sh/projects/task-tracker
+
 ## Features
 
 - Add new tasks
